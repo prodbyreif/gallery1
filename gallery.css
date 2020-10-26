@@ -1,0 +1,17 @@
+img{
+    width: 29.5%;
+    height: 30rem;
+    margin: calc(10%/6);
+    object-fit: cover;
+}
+
+nav{
+    font-family: 'Baloo Chettan 2', cursive;
+    font-size: 1.7em;
+    color: rgba(29, 29, 46, 0.7);
+    border-bottom: 2px solid #b8b8b859;
+    width: 30%;
+    margin-left:  calc(10%/6);
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
